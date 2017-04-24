@@ -30,7 +30,9 @@ var third = function(){
   return (scramble.split("").reverse().join("").split(" ").reverse().join(" "));
 };
 
+
 var sentence = prompt("enter a sentence: ");
+
 
 third()
 //user interface
